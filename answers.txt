@@ -1,0 +1,5 @@
+Reponses : 
+question 1 : la commande git diff montre les fichiers modifiés mais qui ne sont pas dans 
+la staging area alors que git diff --staged montre les fichiers modifiés qui sont dans la staging
+area mais pas commité. (sont dans la staging area == "git add" executée);
+
